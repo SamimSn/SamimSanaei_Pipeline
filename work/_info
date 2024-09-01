@@ -1,0 +1,1021 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+vAdd
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 L`10If_:o^^>6k7Mjh?<@3
+I:Lzi4XCeS8?Eh@3E>U5d71
+Z1 dD:/BIHE/Term-4/AL/SamimSanaei_Pipeline
+w1723896089
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Add.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Add.v
+L0 1
+Z2 OL;L;10.6d;65
+Z3 !s108 1724274372.000000
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Add.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Add.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+n@add
+vALU
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 <ZCMY[VU]:`F0X^6oo7c31
+Ie>M00Vl3;>aec59WKf?@21
+R1
+w1724227870
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALU.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALU.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALU.v|
+!i113 0
+R4
+R5
+n@a@l@u
+vALUControl
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZLk??z`d;bgN72b>UmSY32
+I1;o2nOmgaJSHAbizEV@?M3
+R1
+w1722207155
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALUControl.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALUControl.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALUControl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALUControl.v|
+!i113 0
+R4
+R5
+n@a@l@u@control
+vComparator
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 D5<JH:H3h1;7kHcf3nkUb0
+IcR[W54zTAaE631Q<HbDA80
+R1
+w1723905224
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Comparator.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Comparator.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Comparator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Comparator.v|
+!i113 0
+R4
+R5
+n@comparator
+vComparator_Test
+Z6 !s110 1724274373
+!i10b 1
+!s100 _kOgNOX]?^SS_gEHm:aj20
+I46@<@8YWbllNJI9DW1?<Y3
+R0
+R1
+w1723900828
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Comparator.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Comparator.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z7 !s108 1724274373.000000
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Comparator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Comparator.v|
+!i113 0
+R4
+R5
+n@comparator_@test
+vControl
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 a^NN?5eZCeW0FNdEZCUlk0
+IcSFHFz:`EoLlV5laUC1d01
+R1
+w1724259049
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Control.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Control.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Control.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Control.v|
+!i113 0
+R4
+R5
+n@control
+vDataMemory
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 alRTbMc_W;hPR>[jiQjN03
+I=e4m@[52c_jhH`WCco]GP3
+R1
+w1724274365
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/DataMemory.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/DataMemory.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/DataMemory.v|
+!i113 0
+R4
+R5
+n@data@memory
+vEX_MEM
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 i61AT1V8O0FY>C^]oCCbS3
+I@ATC=VK0lZ^0T?m8EE34A0
+R1
+w1724159966
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/3_EX_MEM.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/3_EX_MEM.v
+L0 1
+R2
+Z8 !s108 1724274371.000000
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/3_EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/3_EX_MEM.v|
+!i113 0
+R4
+R5
+n@e@x_@m@e@m
+vEX_MEM_Test
+R6
+!i10b 1
+!s100 LR]:3:PnjG]a_MQ3h0<c?0
+If7C<6=7CQS^j?O^MMbBM[1
+R0
+R1
+w1723897744
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_3_EX_MEM.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_3_EX_MEM.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_3_EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_3_EX_MEM.v|
+!i113 0
+R4
+R5
+n@e@x_@m@e@m_@test
+vForwardingUnit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 LjLRTX8?zYohg]mRN8PP73
+IHDVKkARBajcWWn5hn64G<2
+R1
+w1724274250
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ForwardingUnit.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ForwardingUnit.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ForwardingUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ForwardingUnit.v|
+!i113 0
+R4
+R5
+n@forwarding@unit
+vForwardingUnit_Test
+R6
+!i10b 1
+!s100 7ZQcC^LAVUjI`X7AGRI>U3
+I;:_90_9[LXROhhimA;FJ42
+R0
+R1
+w1723900675
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ForwardingUnit.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ForwardingUnit.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ForwardingUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ForwardingUnit.v|
+!i113 0
+R4
+R5
+n@forwarding@unit_@test
+vHazardDetectionUnit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 n4Ui1lZC;>U_A7cjYF?nc1
+I^OT:Y0NCgGf_V]mYIlF4;1
+R1
+w1724255005
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/HazardDetectionUnit.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/HazardDetectionUnit.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/HazardDetectionUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/HazardDetectionUnit.v|
+!i113 0
+R4
+R5
+n@hazard@detection@unit
+vHazardDetectionUnit_tb
+R6
+!i10b 1
+!s100 ^ImQHT<ZQ=7V5MME5eT0=0
+IH:b?e8BLo^;cFJjDlSkU>1
+R0
+R1
+w1723905481
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_HazardDetectionUnit.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_HazardDetectionUnit.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_HazardDetectionUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_HazardDetectionUnit.v|
+!i113 0
+R4
+R5
+n@hazard@detection@unit_tb
+vID_EX
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 iSK6SV8R6RoIln6VmTelM1
+Ie]@DU@7JG1]K6X1YU_Njf2
+R1
+w1724160288
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/2_ID_EX.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/2_ID_EX.v
+L0 1
+R2
+R8
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/2_ID_EX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/2_ID_EX.v|
+!i113 0
+R4
+R5
+n@i@d_@e@x
+vID_EX_Test
+R6
+!i10b 1
+!s100 Q71R>VUiB`5Z>XFRZYbk73
+IzGKEeA=@UUEGOEoEeoh2?3
+R0
+R1
+w1723897677
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_2_ID_EX.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_2_ID_EX.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_2_ID_EX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_2_ID_EX.v|
+!i113 0
+R4
+R5
+n@i@d_@e@x_@test
+vIF_ID
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 lX^HWiJnJoW[dIm[9<SoC2
+Il=WJbX@kCo<Sa?YoX6S:N1
+R1
+w1724187906
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/1_IF_ID.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/1_IF_ID.v
+L0 1
+R2
+R8
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/1_IF_ID.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/1_IF_ID.v|
+!i113 0
+R4
+R5
+n@i@f_@i@d
+vIF_ID_Test
+R6
+!i10b 1
+!s100 hoSBgn>2><B464=BH9a?k0
+I^?gkR0dJif@N1ZS[9ZLE83
+R0
+R1
+w1723905751
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_1_IF_ID.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_1_IF_ID.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_1_IF_ID.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_1_IF_ID.v|
+!i113 0
+R4
+R5
+n@i@f_@i@d_@test
+vInstructionmemory
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 i6j`g@PmA3LQSnGnn=dXO3
+I7iLDi0QG_5DNB9cDoB6h71
+R1
+w1724266646
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/InstructionMemory.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/InstructionMemory.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/InstructionMemory.v|
+!i113 0
+R4
+R5
+n@instructionmemory
+vMain
+!s110 1724274372
+!i10b 1
+!s100 jd<UoQkXY>[`7T[a:3U091
+I<h2LA<D84R_Ln`FH<6:GH1
+R0
+R1
+w1723932261
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main.v|
+!i113 0
+R4
+R5
+n@main
+vMain_Pipeline
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;1cYEbbG>[iEbLBWb[0<33
+I@LkCOfhQ6EfQcF1;azlT13
+R1
+w1724256343
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main_Pipeline.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main_Pipeline.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main_Pipeline.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main_Pipeline.v|
+!i113 0
+R4
+R5
+n@main_@pipeline
+vMEM_WB
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 X8h5R4B5X5@N5hX95kHEm1
+I28XOfUJnzX;H3@0=dV[ZW2
+R1
+w1723896080
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/4_MEM_WB.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/4_MEM_WB.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/4_MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/4_MEM_WB.v|
+!i113 0
+R4
+R5
+n@m@e@m_@w@b
+vMEM_WB_Test
+R6
+!i10b 1
+!s100 i4XE`0Q>5EeaXEfkmPFfS1
+IlbjLzT22>:;UC:M^hk>5]1
+R0
+R1
+w1723897786
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_4_MEM_WB.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_4_MEM_WB.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_4_MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_4_MEM_WB.v|
+!i113 0
+R4
+R5
+n@m@e@m_@w@b_@test
+vMux10
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 TWVJB5?h6R20P0A`U1N770
+IWTG2FnAdf8`5Bl7KblGGF3
+R1
+w1724168329
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux10.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux10.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux10.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux10.v|
+!i113 0
+R4
+R5
+n@mux10
+vMux32
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 _Yo79^T[LY<Lf^cRBjg=?0
+IYK=]BGHNK=lGCkkS3Fm;f2
+R1
+w1722207045
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32.v|
+!i113 0
+R4
+R5
+n@mux32
+vMux32_3In
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 =g@[6XLz6a3MmT7jaT4b_1
+IX_iBkL79[b:^=nlZ4jGN^0
+R1
+w1723898175
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32_3In.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32_3In.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32_3In.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32_3In.v|
+!i113 0
+R4
+R5
+n@mux32_3@in
+vMux32_3In_Test
+R6
+!i10b 1
+!s100 CKLdCQh;leH@C0V?Re^hf1
+ITn]I09a7fh2c:]9lo3?HI1
+R0
+R1
+w1723898402
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32_3In.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32_3In.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32_3In.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32_3In.v|
+!i113 0
+R4
+R5
+n@mux32_3@in_@test
+vMux5
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?kFb>@Q9>;6RoRj@Ue8<k3
+IXZj>Y>=jlg9OEk<0iP6OX2
+R1
+w1722207009
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux5.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux5.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux5.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux5.v|
+!i113 0
+R4
+R5
+n@mux5
+vPC
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Va0XJaQ:H;?904=[_TJAj1
+IbWg59=aMB]Wz5H?C226WU0
+R1
+w1724187910
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/PC.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/PC.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/PC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/PC.v|
+!i113 0
+R4
+R5
+n@p@c
+vRegisterFile
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 =ccfVo=Rj870d2Hd4BEIF3
+IzaLX1JkY]WSV9?@CQ1L<o1
+R1
+w1724262519
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/RegisterFile.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/RegisterFile.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/RegisterFile.v|
+!i113 0
+R4
+R5
+n@register@file
+vShift26_28
+R6
+!i10b 1
+!s100 E<kP1znWmMiAm<PhiM0S_1
+IHAZGU:ln1f6T^OeQnO64P2
+R0
+R1
+w1722164795
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft26_28.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft26_28.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft26_28.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft26_28.v|
+!i113 0
+R4
+R5
+n@shift26_28
+vShiftleft2
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Z`:hK8SlBG8Z0E8fVcV[11
+I86m[:Ce_7KlFXOSjH1>mH1
+R1
+w1722164791
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft2.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft2.v
+L0 1
+R2
+R3
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft2.v|
+!i113 0
+R4
+R5
+n@shiftleft2
+vSignExtend
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 bNN:6<G35SOln88@JIf[g2
+IFXAiT=Lf[oSRek]5YBKJ43
+R1
+w1722164798
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/SignExtend.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/SignExtend.v
+L0 1
+R2
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/SignExtend.v|
+!i113 0
+R4
+R5
+n@sign@extend
+vTest_Add
+R6
+!i10b 1
+!s100 :==FVXe`?4lz:[=AeFH?f2
+IEaV3:TkfhkCc3>_MEneN70
+R0
+R1
+w1722082673
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Add.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Add.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Add.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Add.v|
+!i113 0
+R4
+R5
+n@test_@add
+vTest_ALU
+R6
+!i10b 1
+!s100 5?2jhPP4>_hLW9d_[Eo5@3
+IMDl7^oC>0MQhPM2oAEFWY3
+R0
+R1
+w1722082764
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALU.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALU.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALU.v|
+!i113 0
+R4
+R5
+n@test_@a@l@u
+vTest_ALUControl
+R6
+!i10b 1
+!s100 1L5<c8lgGT=00hC5Tkho42
+I@j1a;P22S6a90PjR4GhR51
+R0
+R1
+w1722082813
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALUControl.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALUControl.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALUControl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALUControl.v|
+!i113 0
+R4
+R5
+n@test_@a@l@u@control
+vTest_Control
+R6
+!i10b 1
+!s100 >VOeKjQDdk_QM_WoL04U^0
+IH7VVXDo2VK6^]_Z;dQJ0K0
+R0
+R1
+w1722082865
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Control.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Control.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Control.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Control.v|
+!i113 0
+R4
+R5
+n@test_@control
+vTest_DataMemory
+R6
+!i10b 1
+!s100 d>?UBec_TUlnBd@L_`]5?0
+I>^kckK1hgK]]N8m7`2J1z2
+R0
+R1
+w1722083689
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_DataMemory.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_DataMemory.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_DataMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_DataMemory.v|
+!i113 0
+R4
+R5
+n@test_@data@memory
+vTest_InstructionMemory
+R6
+!i10b 1
+!s100 l>?WkKe5UkKf8h;F6z4mA2
+I^AkJDc]:Zb`H=d7hhbDZP0
+R0
+R1
+w1722083747
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_InstructionMemory.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_InstructionMemory.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_InstructionMemory.v|
+!i113 0
+R4
+R5
+n@test_@instruction@memory
+vTest_Main
+R6
+!i10b 1
+!s100 3m3?>1za]obPV3U_1ZUQN3
+If@70bDJCC`L=:ek4n[h=k1
+R0
+R1
+w1723932175
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main.v
+L0 1
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main.v|
+!i113 0
+R4
+R5
+n@test_@main
+vTest_Main_Pipeline
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Vj4mej^B2n^_ZI5R=X`B11
+IhLo>mzCOfSa3F8UITGhUI2
+R1
+w1724262357
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main_Pipeline.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main_Pipeline.v
+L0 1
+R2
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main_Pipeline.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main_Pipeline.v|
+!i113 0
+R4
+R5
+n@test_@main_@pipeline
+vTest_Mux32
+R6
+!i10b 1
+!s100 =TNkG0M=5dM?;_c:0JFiA0
+I;mig;E1=GDHRiOh:XB;^Y0
+R0
+R1
+w1722083997
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32.v|
+!i113 0
+R4
+R5
+n@test_@mux32
+vTest_Mux5
+R6
+!i10b 1
+!s100 aaafNccMd2fXUgT:mXYdb1
+I9P?[0ndPQc1d36zLceCef0
+R0
+R1
+w1722083927
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux5.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux5.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux5.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux5.v|
+!i113 0
+R4
+R5
+n@test_@mux5
+vTest_PC
+R6
+!i10b 1
+!s100 gY`La[m7kCCbMJl;3>R^e0
+IlOQRXWOQE`_596V;LKPXo1
+R0
+R1
+w1723931405
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_PC.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_PC.v
+L0 3
+R2
+r1
+!s85 0
+31
+R7
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_PC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_PC.v|
+!i113 0
+R4
+R5
+n@test_@p@c
+vTest_RegisterFile
+Z9 !s110 1724274374
+!i10b 1
+!s100 ol4Gf@4G^eb7JMkJ1TRBQ1
+Ii6zo59een`>65;Veno7^d0
+R0
+R1
+w1722088639
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_RegisterFile.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_RegisterFile.v
+L0 3
+R2
+r1
+!s85 0
+31
+Z10 !s108 1724274374.000000
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_RegisterFile.v|
+!i113 0
+R4
+R5
+n@test_@register@file
+vTest_Shift26_28
+R9
+!i10b 1
+!s100 Y2EZJjGgfokaEbk7::GU50
+Ig5CS0XK`WhFFW5FED8kY40
+R0
+R1
+w1722084848
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shift26_28.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shift26_28.v
+L0 3
+R2
+r1
+!s85 0
+31
+R10
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shift26_28.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shift26_28.v|
+!i113 0
+R4
+R5
+n@test_@shift26_28
+vTest_Shiftleft2
+R9
+!i10b 1
+!s100 CcWfB4_9aHh_H5iBkQ;^K1
+IeS0R]Y@iojeDgX^SJHm=22
+R0
+R1
+w1722084778
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shiftleft2.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shiftleft2.v
+L0 3
+R2
+r1
+!s85 0
+31
+R10
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shiftleft2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shiftleft2.v|
+!i113 0
+R4
+R5
+n@test_@shiftleft2
+vTest_SignExtend
+R9
+!i10b 1
+!s100 iIFhojYCHWHUKUHkC2j5Z3
+IT;1hd<;:3MzJo97acln<z3
+R0
+R1
+w1722084911
+8D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_SignExtend.v
+FD:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_SignExtend.v
+L0 3
+R2
+r1
+!s85 0
+31
+R10
+!s107 D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_SignExtend.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_SignExtend.v|
+!i113 0
+R4
+R5
+n@test_@sign@extend

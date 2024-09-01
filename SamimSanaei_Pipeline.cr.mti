@@ -1,0 +1,325 @@
+D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_SignExtend.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_SignExtend.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_SignExtend
+
+Top level modules:
+	Test_SignExtend
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Add.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Add.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_Add
+
+Top level modules:
+	Test_Add
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32_3In.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32_3In.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Mux32_3In
+
+Top level modules:
+	Mux32_3In
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_4_MEM_WB.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_4_MEM_WB.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module MEM_WB_Test
+
+Top level modules:
+	MEM_WB_Test
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_2_ID_EX.v {2 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_2_ID_EX.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ID_EX_Test
+** Warning: D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_2_ID_EX.v(57): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+** Warning: D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_2_ID_EX.v(66): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	ID_EX_Test
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Add.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Add.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Add
+
+Top level modules:
+	Add
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_InstructionMemory.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_InstructionMemory.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_InstructionMemory
+
+Top level modules:
+	Test_InstructionMemory
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_DataMemory.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_DataMemory.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_DataMemory
+
+Top level modules:
+	Test_DataMemory
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALUControl.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALUControl.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_ALUControl
+
+Top level modules:
+	Test_ALUControl
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_1_IF_ID.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_1_IF_ID.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module IF_ID_Test
+
+Top level modules:
+	IF_ID_Test
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/2_ID_EX.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/2_ID_EX.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shiftleft2.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shiftleft2.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_Shiftleft2
+
+Top level modules:
+	Test_Shiftleft2
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_PC.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_PC.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_PC
+
+Top level modules:
+	Test_PC
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/1_IF_ID.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/1_IF_ID.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux10.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux10.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Mux10
+
+Top level modules:
+	Mux10
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/InstructionMemory.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/InstructionMemory.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Instructionmemory
+
+Top level modules:
+	Instructionmemory
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ForwardingUnit.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ForwardingUnit.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_Main
+
+Top level modules:
+	Test_Main
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/RegisterFile.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/RegisterFile.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/3_EX_MEM.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/3_EX_MEM.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux5.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux5.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_Mux5
+
+Top level modules:
+	Test_Mux5
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_Mux32
+
+Top level modules:
+	Test_Mux32
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux32.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Mux32
+
+Top level modules:
+	Mux32
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Comparator.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Comparator.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Comparator
+
+Top level modules:
+	Comparator
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Control.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Control.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_Control
+
+Top level modules:
+	Test_Control
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_HazardDetectionUnit.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_HazardDetectionUnit.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module HazardDetectionUnit_tb
+
+Top level modules:
+	HazardDetectionUnit_tb
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main_Pipeline.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Main_Pipeline.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_Main_Pipeline
+
+Top level modules:
+	Test_Main_Pipeline
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Control.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Control.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/HazardDetectionUnit.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/HazardDetectionUnit.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module HazardDetectionUnit
+
+Top level modules:
+	HazardDetectionUnit
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/SignExtend.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/SignExtend.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALU.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ALU.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_ALU
+
+Top level modules:
+	Test_ALU
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main_Pipeline.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main_Pipeline.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Main_Pipeline
+
+Top level modules:
+	Main_Pipeline
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/4_MEM_WB.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/4_MEM_WB.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft26_28.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft26_28.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Shift26_28
+
+Top level modules:
+	Shift26_28
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ForwardingUnit.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_ForwardingUnit.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ForwardingUnit_Test
+
+Top level modules:
+	ForwardingUnit_Test
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALU.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALU.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALUControl.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ALUControl.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/PC.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/PC.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft2.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/ShiftLeft2.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Shiftleft2
+
+Top level modules:
+	Shiftleft2
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_3_EX_MEM.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_3_EX_MEM.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module EX_MEM_Test
+
+Top level modules:
+	EX_MEM_Test
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_RegisterFile.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_RegisterFile.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_RegisterFile
+
+Top level modules:
+	--none--
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Main.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Main
+
+Top level modules:
+	Main
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shift26_28.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Shift26_28.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Test_Shift26_28
+
+Top level modules:
+	Test_Shift26_28
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux5.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Mux5.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Mux5
+
+Top level modules:
+	Mux5
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Comparator.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Comparator.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Comparator_Test
+
+Top level modules:
+	Comparator_Test
+
+} {} {}} D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32_3In.v {1 {vlog -work work -vopt -stats=none D:/BIHE/Term-4/AL/SamimSanaei_Pipeline/Test_Mux32_3In.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module Mux32_3In_Test
+
+Top level modules:
+	Mux32_3In_Test
+
+} {} {}}
